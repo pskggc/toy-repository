@@ -15,3 +15,5 @@ This repository is for helping students gain experience with git and github.
   
 ## Notes
 1. This activity is designed to illustrate how git works, and how github works, without introducing any reasonable likelihood that your commits will conflict with anyone elses. 
+
+TESTING
